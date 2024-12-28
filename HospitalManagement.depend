@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1735399379 source:d:\northern\2nd semester\software development\final project\hospitalmanagement\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"auth.h"
+
+1735398609 d:\northern\2nd semester\software development\final project\hospitalmanagement\auth.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
